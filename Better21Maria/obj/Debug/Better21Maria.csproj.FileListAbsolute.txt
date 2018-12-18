@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Better21Maria\Better21Maria\bin\Debug\Better21Maria.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Better21Maria\Better21Maria\bin\Debug\Better21Maria.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Better21Maria\Better21Maria\bin\Debug\Better21Maria.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Better21Maria\Better21Maria\obj\Debug\Better21Maria.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Better21Maria\Better21Maria\obj\Debug\Better21Maria.frmBetter21.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Better21Maria\Better21Maria\obj\Debug\Better21Maria.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Better21Maria\Better21Maria\obj\Debug\Better21Maria.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Better21Maria\Better21Maria\obj\Debug\Better21Maria.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Better21Maria\Better21Maria\obj\Debug\Better21Maria.pdb
